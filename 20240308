@@ -1,5 +1,0 @@
-git remote add orgin https://github.com/yihan0317/First.git
-
-git add .
-git -m "your commit messages"
-git push
